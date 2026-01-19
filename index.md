@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "HITMC Wiki"
-  text: "A wiki site for hitmc"
+  text: "A wiki site for HITMC"
   # tagline: My great project tagline
   actions:
     - theme: brand
@@ -19,22 +19,29 @@ features:
     link: https://hitmc.cc
     details:
         <a href="https://hitmc.cc">https://hitmc.cc</a><br>
-  - title: 【原版】1.21
-    link: /servers/van121/
+  - title: 【原版】1.21.11
+    link: /servers/van/
     details:
         <span class="index-tags">
-          <span class="index-tag">1.21</span>
+          <span class="index-tag">1.21.11</span>
           <span class="index-tag">carpet</span>
           <span class="index-tag">fabric</span>
-          <span class="index-tag">生存</span>
+          <span class="index-tag">生电</span>
         </span>
-  - title: 【MOD】海上机械师
-    link: /servers/haishangjixieshi/
+  - title: 【MOD】周目 mod 服
+    link: /servers/mod_rotation/
     details:
         <span class="index-tags">
-          <span class="index-tag">海岛生存</span>
+          <span class="index-tag">周目轮换</span>
+          <span class="index-tag">喜欢你来</span>
+        </span>
+  - title: 【MOD】常驻 mod 服
+    link: /servers/mod_permanent/
+    details:
+        <span class="index-tags">
+          <span class="index-tag">1.21.1</span>
           <span class="index-tag">机械动力</span>
-          <span class="index-tag">瓦尔基里</span>
+          <span class="index-tag">农夫乐事</span>
         </span>
   - title: 【建筑】我的哈工大
     link: /servers/myhit/
@@ -50,7 +57,7 @@ features:
       font-size: 0;
   }
   .index-tag {
-    background-color: white;
+    /* background-color: white; */
     padding: 4px 8px;
     margin-right: 4px;
     border-radius: 4px;

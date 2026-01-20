@@ -58,6 +58,9 @@ const sidebars: DefaultTheme.SidebarItem[] = [
 在本地改完代码之后，总该 debug 一下
 
 > cd wiki.hitmc.cc
+> 
 > pnpm install
+> 
 > npm run docs:dev
+> 
 > 然后在浏览器输入所给出的地址

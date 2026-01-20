@@ -14,6 +14,7 @@ const sidebars: DefaultTheme.SidebarItem[] = [
     {
         text: '玩家',
         items: [
+            { text: 'HITMC入服指南', link: root`/join` },
             { text: 'Ledger 操作指南', link: root`/player-ledger` },
             { text: '服务器地图迁移指南', link: root`/map_migration` },
         ],

@@ -8,7 +8,6 @@ const sidebars: DefaultTheme.SidebarItem[] = [
         text: '页面',
         items: [
             { text: '关于我们', link: root`/` },
-            { text: '周目考古', link: root`/servers` },
             { text: '文档编辑指南（草稿）', link: root`/maintain-docs` },
         ]
     },

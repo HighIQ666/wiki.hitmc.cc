@@ -12,6 +12,7 @@
 | `bj.van.hitmc.cc`      | 公网-北京 | Online     | 北京（及临近地区）推荐使用     |
 | `bj2.van.hitmc.cc`      | 公网-北京 | Online     | 北京（及临近地区）推荐使用     |
 | `sz.van.hitmc.cc`      | 公网-深圳 | TODO     | 深圳（及临近地区）推荐使用     |
+| `gz.van.hitmc.cc`      | 公网-广州 | TODO     | 广州（及临近地区）推荐使用     |
 | `gd.van.hitmc.cc`      | 公网-河源 | TODO     | 广东河源（及临近地区）推荐使用 |
 | `local.van.hitmc.cc`   | 校内-本部 | Online     | 本部校区校园网推荐使用         |
 | `szlocal.van.hitmc.cc` | 校内-深圳 | TODO     | 深圳校区校园网推荐使用         |

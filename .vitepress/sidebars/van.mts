@@ -1,7 +1,7 @@
 import { DefaultTheme } from "vitepress";
 import { getRootFunc } from "./common.mts";
 
-const root = getRootFunc('/servers/van121/');
+const root = getRootFunc('/servers/van/');
 
 const sidebars: DefaultTheme.SidebarItem[] = [
     {

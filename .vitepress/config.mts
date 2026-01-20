@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
-import sidebarVan121 from './sidebars/van.mts';
+import sidebarVan from './sidebars/van.mts';
 import sidebarBlog from './sidebars/blog.mts';
+import sidebarPermod from './sidebars/mod_permanent.mts';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -23,8 +24,9 @@ export default defineConfig({
         ],
 
         sidebar: {
-            "/servers/van121/": sidebarVan121,
+            "/servers/van/": sidebarVan,
             '/blog/': sidebarBlog,
+            "/servers/mod_permanent/": sidebarPermod,
             //"/servers/old/": [],
             // "/about": [
             //     {

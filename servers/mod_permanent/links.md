@@ -10,3 +10,5 @@
 ## Bluemap
 
 https://permod.map.hitmc.cc/
+
+> PS：进去之后如果是黑屏，需要手动切换到主世界地图

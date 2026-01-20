@@ -24,8 +24,8 @@ features:
     details:
         <span class="index-tags">
           <span class="index-tag">1.21.11</span>
-          <span class="index-tag">carpet</span>
-          <span class="index-tag">fabric</span>
+          <span class="index-tag">Carpet</span>
+          <span class="index-tag">Fabric</span>
           <span class="index-tag">生电</span>
         </span>
   - title: 【MOD】周目 mod 服

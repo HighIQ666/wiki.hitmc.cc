@@ -1,0 +1,139 @@
+# mod 列表
+
+## 玩法类
+
+- appliedenergistics2【B-应用能源2】
+- ATi Structures【D-中世纪冒险结构】
+- BrewinAndChewin【B-饮酒作乐】
+- carryon【B-搬运】
+- cataclysm_dimension【S-灾变：维度】
+- create【B-机械动力】
+- create_bb【B-机械动力：更多转向架】
+- create-central-kitchen【B-机械动力：中央厨房】
+- create_connected【B-机械动力：创意传动】
+- createdeco【B-机械动力装饰】
+- create-dragons-plus【B-机械动力：龙+ 提供了多种加工方式】
+- create_egg_production【B-机械动力：鸡蛋产线】
+- create-enchantment-industry【B-机械动力：附魔工业】
+- createoreexcavation【B-机械动力：矿石开掘】
+- create_power_loader【B-机械动力：动力加载器】
+- createprism【B-机动玻璃】
+- createrailwaysnavigator【B-机械动力：铁路导航】
+- Design-n-Decor【B-机械动力；装饰】
+- DnT-ancient-city-overhaul-v2 【D-Dnt古城】
+- DungeonsAriseSevenSeas【D-地牢浮现之时海洋拓展】
+- easy-piglins【B-简易猪灵】
+- easy-villagers【B-简易村民】
+- enderdrives【B-AE2末影驱动】
+- exposure【B-拾光定影】
+- ExtendedAE【B-AE2扩展】
+- FarmersDelight【B-农夫乐事】
+- guardvillagers【B-警卫村民】
+- i_man_of_many_planes【B-沉浸飞机附加】
+- immersive_aircraft【B-沉浸式飞机】
+- irons_spellbooks【B-Iron的法术与魔法书】
+- kaleidoscopecookery【B-森罗物语：厨房】
+- L_Enders Cataclysm 【B-灾变】
+- letsdo-furniture【B-家居装饰】
+- lukis-crazy-chambers【D-Luki的试炼大厅】
+- lukis-grand-capitals【D-Luki的村庄】
+- maid_storage_manager【B-女仆仓管】
+- netmusic【B-网络音乐机】
+- Nullscape【D-空无之景】
+- sophisticatedbackpacks【B-精妙背包】
+- sophisticatedcore【B-精妙核心】
+- sophisticatedstorage【B-精妙存储】
+- tacz【B-枪械】
+- t_and_t-fabric【D-城镇塔楼】
+- torchmaster【B-火炬大师】
+- touhoulittlemaid【B-车万女仆】
+- trek【D-生成许多结构和岛】
+- waystones【B-传送石碑】
+- ysm【B-是，史蒂夫模型】
+- YungsBetterDesertTemples【D-YUNG的沙漠神殿优化】
+- YungsBetterEndIsland【D-YUNG的末地岛屿优化】
+- YungsBetterJungleTemples【D-YUNG的丛林神庙优化】
+- YungsBetterMineshafts【D-YUNG 的矿井优化】
+- YungsBetterOceanMonuments【D-YUNG 的海底神殿优化】
+- YungsBetterStrongholds【D-YUNG 的要塞优化】
+- YungsBetterWitchHuts【D-YUNG的沼泽小屋优化】
+- YungsBridges【D-YUNG 的桥】
+  
+## 功能类
+
+- actuallyharvest【B-右键自动收获】
+- ae2wtlib【B-AE2无线终端】
+- aeinfinitybooster【B-无限范围卡和维度卡】
+- AlwaysEat【B-大胃袋】
+- angelring【B-天使指环】
+- appliedschematicannon【B-机动蓝图大炮AE兼容】
+- Bluemap【S-网页地图】
+- copycats【B-机械动力：伪装方块+】
+- createaddition【B-机械动力附加】
+- createadditionallogistics【B-机动物流优化添加】
+- Create Bluemap【S-网页地图机械动力扩展】
+- create_compressed【B-机动更多压缩】
+- createfastschematiccannon【B-蓝图大炮提速】
+- create_pattern_schematics【B-机械动力：模式蓝图】
+- createstockbridge【B-机动AE链接】
+- createultimine【B-机动连锁破坏】
+- CreeperFirework【B-烟花苦力怕】
+- displaydelight【B-农夫乐事菜品展示】
+- DistantHorizons【B-遥远视距】
+- effortless【B-轻松建造】
+- emi【B-EMI】
+- ExplorersCompass【B-探险者指南针】
+- ftb-essentials【B-FTB指令】
+- ftb-filter-system【B-FTB过滤器】
+- ftb-jei-extras【B-FTBJEI联动】
+- ftb-quests【B-FTB任务】
+- ftb-teams【B-FTB 团队】
+- ftb-ultimine【连锁破坏】
+- ftb-xmod-compat【B-FTB兼容包】
+- healingcampfire【B-治愈营火】
+- immersive_paintings【B-沉浸画框】
+- inventorytotem【B-更好的图腾】
+- Jade【B-玉 🔍服务端安装获取更多功能】
+- JadeAddons【B-玉拓展 服务端安装获取更多功能】
+- lootr【B-战利品箱子】
+- NaturesCompass【B-生物群系指南针】
+- netherportalfix【B-下界传送门修正】
+- no-enderman-grief【D-末影人不搬运】
+- Not Enough Recipe Book【B-移除配方书】
+- notrample【B-耕地保护】
+- polymorph【B-多态合成】
+- simpletomb【B-简单坟墓】
+- tacz-pack-upgrader【B-枪包升级补丁】
+- tectonic【D-地形】
+- wits【B-结构识别】
+
+## 性能优化类
+
+- alltheleaks【B-nf内存泄漏修复】
+- c2me【B-C^2M 引擎】.disabled
+- ferritecore【B-铁氧体磁芯】
+
+## 支持库
+
+- architectury【B-支持库】
+- balm【B-运行库】
+- caelus【B-支持库】
+- cloth-config【B-支持库】
+- collective【B-支持库】
+- cristellib【B-城镇塔楼支持库】
+- curios【B-饰品栏】
+- flightapi【B-飞行 API-天使指环前置】
+- ftb-library【B-支持库】
+- fzzy_config【B-支持库】
+- geckolib【B-支持库】
+- Glodium【B-支持库】
+- guideme【B-AE前置运行库】
+- haydenapi【B-支持库-天使指环前置】
+- kotlinforforge-all【B-支持库】
+- lionfishapi【B-灾变支持库】
+- lithostitched【B-地形支持库】
+- OctoLib【B-支持库】
+- Patchouli【B-帕秋莉手册】
+- player-animation-lib【B-支持库】
+- yet_another_config_lib_v3【B-支持库】
+- YungsApi【B-支持库】

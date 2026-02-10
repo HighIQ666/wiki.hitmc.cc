@@ -10,11 +10,14 @@
 
 **需要注意的是，三条sakura线路是假期临时线路。**
 
-| 地址                      | 地域      | 当前状态 |
-| :------------------------ | :-------- | :------- |
-| `bj.mod.hitmc.cc`      | 公网-北京 | Online     |
-| `bj2.mod.hitmc.cc`      | 公网-北京 | Online     |
-| `local.mod.hitmc.cc`   | 校内-本部 | Online     |
-| `hb.mod.hitmc.cc`      | sakuraFRP-湖北襄阳 | Online     |
-| `sd.mod.hitmc.cc`      | sakuraFRP-山东枣庄 | Online     |
-| `zj.mod.hitmc.cc`      | sakuraFRP-浙江宁波 | Online     |
+| 地址                                 | 地域                     | 当前状态 |
+| :----------------------------------- | :----------------------- | :------- |
+| `local.mod.hitmc.cc`                 | 校内-本部                | Online   |
+| `n.mod.hitmc.cc` / `sd.mod.hitmc.cc` | 公网-山东枣庄（樱花frp） | Online   |
+| `s.mod.hitmc.cc` / `zj.mod.hitmc.cc` | 公网-浙江宁波（樱花frp） | Online   |
+| `hb.mod.hitmc.cc`                    | 公网-湖北襄阳（樱花frp） | Online   |
+| `gz.mod.hitmc.cc`                    | 公网-广州                | Online   |
+
+- 因服务器规划调整，旧北京入口对应的机器（bj.mod.hitmc.cc 和 bj2.mod.hitmc.cc）已停止使用，为了减少客户端的改动，旧入口域名保留，实际指向新的入口。
+- `bj.mod.hitmc.cc` -> `n.mod.hitmc.cc` （建议偏北（<u>**N**</u>orth）方用户使用）
+- `bj2.mod.hitmc.cc` -> `s.mod.hitmc.cc` （建议偏南（<u>**S**</u>outh）方用户使用）

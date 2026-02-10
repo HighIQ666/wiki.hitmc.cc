@@ -8,11 +8,16 @@
 
 **校外建议选择就近的地址使用，若某地址无法连接可换用其他地址。**
 
-| 地址                      | 地域      | 当前状态 |
-| :------------------------ | :-------- | :------- |
-| `bj.permod.hitmc.cc`      | 公网-北京 | Online     |
-| `bjback.permod.hitmc.cc`      | 公网-北京 | Online     |
-| `local.permod.hitmc.cc`   | 校内-本部 | Online     |
+| 地址                    | 地域                     | 当前状态 |
+| :---------------------- | :----------------------- | :------- |
+| `local.permod.hitmc.cc` | 校内-本部                | Online   |
+| `n.permod.hitmc.cc`     | 公网-山东枣庄（樱花frp） | Online   |
+| `s.permod.hitmc.cc`     | 公网-浙江宁波（樱花frp） | Online   |
+| `gz.permod.hitmc.cc`    | 公网-广州                | Online   |
+
+- 因服务器规划调整，旧北京入口对应的机器（bj.permod.hitmc.cc 和 bj2.permod.hitmc.cc）已停止使用，为了减少客户端的改动，旧入口域名保留，实际指向新的入口。
+- `bj.permod.hitmc.cc` -> `n.permod.hitmc.cc` （建议偏北（<u>**N**</u>orth）方用户使用）
+- `bj2.permod.hitmc.cc` -> `s.permod.hitmc.cc` （建议偏南（<u>**S**</u>outh）方用户使用）
 
 ## Bluemap
 

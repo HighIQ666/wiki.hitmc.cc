@@ -10,12 +10,16 @@
 
 **校外建议选择就近的地址使用，若某地址无法连接可换用其他地址。**
 
-| 地址                      | 地域      | 当前状态 |
-| :------------------------ | :-------- | :------- |
-| `bj.van.hitmc.cc`      | 公网-北京 | Online     |
-| `bj2.van.hitmc.cc`      | 公网-北京 | Online     |
-| `gz.van.hitmc.cc`      | 公网-广州 | TODO     |
-| `local.van.hitmc.cc`   | 校内-本部 | Online     |
+| 地址                 | 地域                     | 当前状态 |
+| :------------------- | :----------------------- | :------- |
+| `local.van.hitmc.cc` | 校内-本部                | Online   |
+| `n.van.hitmc.cc`     | 公网-山东枣庄（樱花frp） | Online   |
+| `s.van.hitmc.cc`     | 公网-浙江宁波（樱花frp） | Online   |
+| `gz.van.hitmc.cc`    | 公网-广州                | Online   |
+
+- 因服务器规划调整，旧北京入口对应的机器（bj.van.hitmc.cc 和 bj2.van.hitmc.cc）已停止使用，为了减少客户端的改动，旧入口域名保留，实际指向新的入口。
+- `bj.van.hitmc.cc` -> `n.van.hitmc.cc` （建议偏北（<u>**N**</u>orth）方用户使用）
+- `bj2.van.hitmc.cc` -> `s.van.hitmc.cc` （建议偏南（<u>**S**</u>outh）方用户使用）
 
 ### 周边服务
 

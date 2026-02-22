@@ -12,11 +12,11 @@
 
 | 地址                                 | 地域                     | 当前状态 |
 | :----------------------------------- | :----------------------- | :------- |
-| `local.mod.hitmc.cc`                 | 校内-本部                | Online   |
-| `n.mod.hitmc.cc` / `sd.mod.hitmc.cc` | 公网-山东枣庄（樱花frp） | Online   |
-| `s.mod.hitmc.cc` / `zj.mod.hitmc.cc` | 公网-浙江宁波（樱花frp） | Online   |
-| `hb.mod.hitmc.cc`                    | 公网-湖北襄阳（樱花frp） | Online   |
-| `gz.mod.hitmc.cc`                    | 公网-广州                | Online   |
+| `local.mod.hitmc.cc`                 | 校内-本部                | ![status](https://monitor.fp.zsh2517.com/badge/local.mod.hitmc.cc/_updown)   |
+| `n.mod.hitmc.cc` / `sd.mod.hitmc.cc` | 公网-山东枣庄（樱花frp） | ![status](https://monitor.fp.zsh2517.com/badge/n.mod.hitmc.cc/_updown)   |
+| `s.mod.hitmc.cc` / `zj.mod.hitmc.cc` | 公网-浙江宁波（樱花frp） | ![status](https://monitor.fp.zsh2517.com/badge/s.mod.hitmc.cc/_updown)   |
+| `hb.mod.hitmc.cc`                    | 公网-湖北襄阳（樱花frp） | ![status](https://monitor.fp.zsh2517.com/badge/hb.mod.hitmc.cc/_updown)   |
+| `gz.mod.hitmc.cc`                    | 公网-广州                | ![status](https://monitor.fp.zsh2517.com/badge/gz.mod.hitmc.cc/_updown)   |
 
 - 因服务器规划调整，旧北京入口对应的机器（bj.mod.hitmc.cc 和 bj2.mod.hitmc.cc）已停止使用，为了减少客户端的改动，旧入口域名保留，实际指向新的入口。
 - `bj.mod.hitmc.cc` -> `n.mod.hitmc.cc` （建议偏北（<u>**N**</u>orth）方用户使用）
